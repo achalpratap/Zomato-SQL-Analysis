@@ -44,6 +44,17 @@ This project analyzes the Zomato dataset using SQL queries
 - Find Minimum and Maximum value for all customers
 
 ## Query for the Zomato SQL dataset questions 
+
+Query for above question set:
+
+
+<img width="780" alt="ssc2" src="https://user-images.githubusercontent.com/125743309/227447639-b00f918a-9ca8-4916-b0f8-6f20795a196d.png">
+<img width="750" alt="ssc4" src="https://user-images.githubusercontent.com/125743309/227448264-d322f206-2a79-4f05-b7aa-7d92744136c3.png">
+<img width="850" alt="sqlssc" src="https://user-images.githubusercontent.com/125743309/227446620-780a2451-2ddb-4e95-b66b-98ea9a66727c.png">
+
+<img width="760" alt="ssc1" src="https://user-images.githubusercontent.com/125743309/227447233-fc231b37-4eff-44e4-876d-9c6d7039ee4b.png">
+
+
 All the query for the Zomato SQL dataset questions are avilable at https://github.com/achalpratap/Zomato-SQL-Analysis/blob/main/Zomato_casestudy_sql.sql
 
 ## Feedback
