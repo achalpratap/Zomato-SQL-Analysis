@@ -43,7 +43,12 @@ This project analyzes the Zomato dataset using SQL queries
 - Find all the veg restaurants
 - Find Minimum and Maximum value for all customers
 
-## Query for the Zomato SQL dataset questions  
+## Query for the Zomato SQL dataset questions 
+All the query for the Zomato SQL dataset questions are avilable at https://github.com/achalpratap/Zomato-SQL-Analysis/blob/main/Zomato_casestudy_sql.sql
+
+## Feedback
+
+If you have any feedback, please reach out to us at singhachal338@gmail.com
 
 
 
