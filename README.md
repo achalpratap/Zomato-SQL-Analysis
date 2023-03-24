@@ -1,5 +1,5 @@
 # Zomato SQL Analysis Project
-This project analyzes the Zomato dataset using SQL queries
+This project analyzes the Zomato dataset using SQL queries.
 
 
 ## Table of contents :
@@ -16,10 +16,10 @@ This project analyzes the Zomato dataset using SQL queries
 ## Tools used in this project :
 - MySQL
 
-## - Instructions for how to run the project
+##  Instructions for how to run the project
 
-1. Install the MySQL Workbench application 
-2. Download the all csv files from zomato csv
+1. Install the MySQL Workbench application.
+2. Download the all csv files from zomato csv.
 3. Import all the files into MySQL Workbench and run the tables. 
 4. To get the csv dataset go to https://github.com/achalpratap/Zomato-SQL-Analysis/tree/main/Zomato%20csv . This is the data repository for the Zomato SQL Analysis Project.
 5. To get query for question set go to https://github.com/achalpratap/Zomato-SQL-Analysis/blob/main/Zomato_casestudy_sql.sql . This is the data repository for the Zomato SQL Analysis Project.
